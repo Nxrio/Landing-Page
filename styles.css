@@ -160,7 +160,6 @@
 }
 .text3{
     color:#e5e7eb;
-    font-size: ;
 }
 .signup2{
     
@@ -174,4 +173,15 @@
     font-weight: bold;
     justify-content: center;
     align-items: center;
+}
+.footer{
+    background-color: #1F2937;
+    width: auto;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text4{
+    color: #e5e7eb;
 }
